@@ -1,0 +1,7 @@
+{
+  "name": "ion-ng11",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
