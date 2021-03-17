@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ws-demo-c92de": {
+      "hosting": {
+        "app": [
+          "ws-demo-c92de"
+        ]
+      }
+    }
+  }
+}
